@@ -1,6 +1,6 @@
 # Projeto Júpiter 🌌
 
-Este é um mini site informativo sobre o planeta Júpiter, criado em HTML e CSS.
+Este é um mini site informativo sobre o planeta Júpiter, criado em HTML.
 
 ## 📁 Arquivos
 - `index.html`: página principal
